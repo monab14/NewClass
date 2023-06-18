@@ -1,1 +1,1 @@
-# NewClass
+This is for learning purpose
